@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="README" type="Markdown" />
+      <mapping pattern="ClusterResourceInfoRepository.xml" type="XML" />
     </extensionMap>
   </component>
 </application>
