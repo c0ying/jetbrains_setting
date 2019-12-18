@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="c0ying" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://localhost:8089" />
+          <option name="userName" value="chaoyuhang" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
