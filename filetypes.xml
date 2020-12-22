@@ -5,6 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="README" type="Markdown" />
+      <mapping ext="router" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping pattern="ClusterResourceInfoRepository.xml" type="XML" />
     </extensionMap>
   </component>
