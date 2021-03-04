@@ -124,5 +124,16 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="达梦" driver-class="dm.jdbc.driver.DmDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://E:/project/zbcj/6.src/server/zbcj-parent/zbcj-admin/libs/DmJdbcDriver18-18.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
