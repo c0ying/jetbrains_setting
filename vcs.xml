@@ -18,6 +18,10 @@
           <option name="url" value="http://172.16.2.149:11022" />
           <option name="userName" value="chaoyuhang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.18.247.240:8089" />
+          <option name="userName" value="chaoyuhang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\my\work" />
