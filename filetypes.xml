@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="README" type="Markdown" />
+      <mapping pattern=".env.alpha" type="PLAIN_TEXT" />
       <mapping ext="router" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping pattern="ClusterResourceInfoRepository.xml" type="XML" />
